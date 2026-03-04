@@ -46,4 +46,4 @@
 
 <hr>
 
->__Finally [here](https://irv77.github.io/AmplerLauncher/) is the live version of the code!__
+>__Finally [here](https://melonman106.github.io/AmplerLauncher/) is the live version of the code!__
