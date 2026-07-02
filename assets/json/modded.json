@@ -47,5 +47,12 @@
        "icon": "./assets/images/mc-icons/tuff.png",
        "link": "./mc/tuffclient/",
        "active": true
-    }
+    },
+    {
+       "title": "Tuff Client Beta Build",
+       "version": "1.12.2-v1.1U16",
+       "icon": "./assets/images/icons/tuff-beta.png",
+       "link": "./mc/tuffbeta/",
+       "active": true
+    },
  ]
