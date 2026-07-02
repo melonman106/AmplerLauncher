@@ -37,8 +37,8 @@
     {
        "title": "Tuff Beta Builds",
        "version": "1.12.2-vBeta",
-       "icon": "./assets/images/icons/tuff-beta.png",
-       "link": "./mc/tuffbeta/",
+       "icon": "./assets/images/icons/starlike.png",
+       "link": "./mc/starlikeclient/",
        "active": true
     },
     {
