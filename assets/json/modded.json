@@ -35,10 +35,10 @@
        "active": false
     },
     {
-       "title": "Starlike",
-       "version": "1.8.8-v0.4.2",
-       "icon": "./assets/images/icons/starlike.png",
-       "link": "./mc/starlikeclient/",
+       "title": "Tuff Beta Builds",
+       "version": "1.12.2-vBeta",
+       "icon": "./assets/images/icons/tuff-beta.png",
+       "link": "./mc/tuffbeta/",
        "active": true
     },
     {
