@@ -1,5 +1,20 @@
 [
     {
+        "title": "Sit Update: New Version Added",
+        "version": "v1.5.10",
+        "description": "Added the new eaglercraft versions of 1.14.4, 1.16.5 and 1.21.1 ",
+        "date": "Tuesday, August 22th, 2026",
+        "icon": "icons/settings-pn.png",
+        "type": "site",
+        "notes": [
+            "Added customizable launcher options, allowing users to create their own name and icon.",
+            "Added credits screen, displaying everybody who has contributed.",
+            "Added the settings screen, allowing users to customize the launcher, and learn info.",
+            "Implemented more memory on choices made inside of the launcher.",
+            "Updated games, fixed bugs, modified css."
+        ]
+    },
+    {
         "title": "Site Update: Customizable",
         "version": "v1.5.00",
         "description": "Added customizable launcher options, credits, settings, more memory options, and updated code!",
