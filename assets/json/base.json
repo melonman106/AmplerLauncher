@@ -119,9 +119,9 @@
        "active": false
     },
     {
-       "title": "Eaglercraft Classic 0.30 WASM",
-       "version": "c0.30-wasm",
-       "icon": "./assets/images/mc-icons/tnt-wasm.png",
+       "title": "Eaglercraft 1.16.5",
+       "version": "1.16.5 u2-beta",
+       "icon": "./assets/images/mc-icons/grass-wasm.png",
        "link": "./mc/c0.30-wasm/",
        "active": false
     }
