@@ -125,11 +125,4 @@
        "link": "./mc/c0.30-wasm/",
        "active": false
     }
-    {
-       "title": "Eaglercraft 1.6.5",
-       "version": "c0.30",
-       "icon": "./assets/images/mc-icons/grass.png",
-       "link": "./mc/1.16.5/",
-       "active": false
-    },
  ]
